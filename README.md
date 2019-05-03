@@ -1,7 +1,7 @@
 # Beams
-Beams is a suburb analysis webapp that merges housing market data and suburb information from a variety of sources to create a user friendly and intuitive hub. This can be used to influence decisions on buying properties by finding suburbs which best matches your criteria.
+>4/5/19: Some features may not be functional due to API limitations. Website is no longer maintained due to end of project period. For a demonstration, [click here.](https://youtu.be/vWZBiD6iriM)
 
-[Video demonstration here](https://youtu.be/vWZBiD6iriM)
+Beams is a suburb analysis webapp that merges housing market data and suburb information from a variety of sources to create a user friendly and intuitive hub. This can be used to influence decisions on buying properties by finding suburbs which best matches your criteria.
 
 API's used include Domain.com, Google Places/Autocomplete, DeepAI, GNews, and several others.
 
