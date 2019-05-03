@@ -11,6 +11,6 @@ Developed by:
 
 (Me) Mozamel Anwary: Lead Front End Developer and UX design
 
-Mariya Shmalko: Team Leader, Lead Back End Developer
+Mariya Shmalko: Team Leader and Lead Back End Developer
 
 Paul Grace, Summayah Ho, Bei Chen: Feature Developers
