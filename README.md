@@ -5,12 +5,12 @@ Beams is a suburb analysis webapp that merges housing market data and suburb inf
 
 API's used include Domain.com, Google Places/Autocomplete, DeepAI, GNews, and several others.
 
-This was built using a React.js framework and a HTML/CSS/MaterialReact front-end.
+This was built using a React.js framework using node.js and Express for back-end, and a HTML/CSS/MaterialReact front-end.
 
 Developed by:
 
 (Me) Mozamel Anwary: Lead Front End Developer and UX design
 
-Mariya Shmalko: Team Leader and Lead Back End Developer
+[Mariya Shmalko](https://github.com/et-cetra): Team Leader and Lead Back End Developer
 
-Paul Grace, Summayah Ho, Bei Chen: Feature Developers
+[Paul Grace](https://github.com/PaulGrace1200), [Summayah Ho](https://github.com/z5210234), [Bei Chen](https://github.com/bei98): Feature Developers
