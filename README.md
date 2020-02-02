@@ -7,10 +7,10 @@ Beams is a suburb analysis webapp that merges housing market data and suburb inf
 ## Tech Stack
 
 * Backend
-  * node.js
+  * Node
   * Express 
 * Frontend 
-  * React.js 
+  * React
   * HTML/CSS
   * MaterialUI
   * Recharts
