@@ -1,4 +1,4 @@
->4/5/19: Some features may not be functional due to API limitations. Website is no longer maintained due to end of project period. For a demonstration, [click here.](https://youtu.be/vWZBiD6iriM) Contact me (mozamel.anwary1@gmail.com) for further details.
+>04/05/2019: Some features may not be functional due to API limitations. Website is no longer maintained due to end of project period. For a demonstration, [click here.](https://youtu.be/vWZBiD6iriM) Contact me (mozamel.anwary1@gmail.com) for further details.
 
 # Beams
 
@@ -22,6 +22,13 @@ Beams is a suburb analysis webapp that merges housing market data and suburb inf
 * DeepAI
 * GNews (Unofficial)
 * More quality-of-life APIs
+
+## Docs
+
+* [Screenshots](https://github.com/atude/beams/blob/master/beams/Deliverables/Deliverable5/Deliverable5.pdf) (pgs. 15-22)
+* [User Stories](https://github.com/atude/beams/blob/master/beams/Deliverables/Deliverable5/Deliverable5.pdf) (pgs. 3-6)
+* [Sequence Diagram](https://github.com/atude/beams/blob/master/beams/Deliverables/Deliverable5/Deliverable5.pdf) (pg. 23)
+* [Lo-fidelity and Hi-fidelity Prototypes](https://github.com/atude/beams/blob/master/beams/Deliverables/Deliverable1/Deliverable1.pdf) (pgs. 12-27)
 
 ## Team
 
