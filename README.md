@@ -1,6 +1,8 @@
 ![banner](https://raw.githubusercontent.com/atude/atude-ghp/master/src/assets/projects/Beams/0.png)
 
->04/05/2019: Some features may not be functional due to API limitations. Website is no longer maintained due to end of project period. For a demonstration, [click here.](https://youtu.be/vWZBiD6iriM) Contact me (mozamel.anwary1@gmail.com) for further details.
+> [Video demonstration](https://youtu.be/vWZBiD6iriM) 
+
+>**04/05/2019**: Some features may not be functional due to API limitations; website is no longer maintained due to end of project period.
 
 # Beams
 
