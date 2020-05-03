@@ -36,8 +36,8 @@ Beams is a suburb analysis webapp that merges housing market data and suburb inf
 
 ## Team
 
-* **Mozamel Anwary** *(Me)*: Lead Front End Developer and UX design
-* **[Mariya Shmalko](https://github.com/et-cetra)**: Team Leader and Lead Back End Developer
-* **[Paul Grace](https://github.com/PaulGrace1200)**: Feature Developer
-* **[Summayah Ho](https://github.com/z5210234)**: Feature Developer 
-* **[Bei Chen](https://github.com/bei98)**: Feature Developer
+* [Mozamel Anwary](https://github.com/atude): Lead Frontend Developer and UX Design
+* [Mariya Shmalko](https://github.com/et-cetra): Team Leader and Lead Back End Developer
+* [Paul Grace](https://github.com/PaulGrace1200): Feature Developer
+* [Summayah Ho](https://github.com/z5210234): Feature Developer 
+* [Bei Chen](https://github.com/bei98): Feature Developer
