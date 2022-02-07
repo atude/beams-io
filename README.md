@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/atude/atude-ghp/master/src/assets/projects/Beams/0.png)
+![banner](https://raw.githubusercontent.com/atude/atude-ghp/master/src/assets/projects/Beams/banner.png)
 
 > [Video demonstration](https://youtu.be/vWZBiD6iriM) 
 
